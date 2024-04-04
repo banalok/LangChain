@@ -1,1 +1,1 @@
-A portfoli project learning LangChain for OPENAI and LLAMA2 APIs chatbot and deployment.
+A portfolio project learning LangChain for OPENAI and LLAMA2 APIs chatbot and deployment.
