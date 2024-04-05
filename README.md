@@ -1,1 +1,1 @@
-A portfolio project aimed at learning LangChain for OPENAI and LLAMA2 APIs, and demonstrating chatbot building and deployment capabilities.
+A portfolio project aimed at learning LangChain for OPENAI and LLAMA2 APIs, and demonstrating chatbot building and deployment capabilities using Streamlit and FastAPI.
